@@ -1,0 +1,8 @@
+{
+  "name": "Meetus.ai — AI Social Assistant",
+  "description": "An intelligent social assistant that connects compatible people in small groups and organizes high-quality offline meetings at partner venues, featuring an AI voice moderator.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
